@@ -14,8 +14,7 @@ The results between the Logistic Regression and SVM model were quite similar in 
 
 Results:
 
-Logistic Regression	0.837	0.833	0.877
-SVM	0.843	0.834	0.884
+
 ![image](https://user-images.githubusercontent.com/72240446/113652286-7e4e8000-9661-11eb-97c0-a29da425db89.png)
 
 
