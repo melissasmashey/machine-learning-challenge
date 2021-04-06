@@ -19,11 +19,6 @@ SVM	0.843	0.834	0.884
 ![image](https://user-images.githubusercontent.com/72240446/113652286-7e4e8000-9661-11eb-97c0-a29da425db89.png)
 
 
-MODELS				TRAINING Score		TESTING Score		GRID  Best score
-	
-Logistic Regression		0.837			0.833			0.877
-
-SVM			 	 0.843		  	0.834		  	0.884
 
 Final Conclusion: In the end, SVM performed slightly better, but both models worked well with  the data.
 
